@@ -1,2 +1,3 @@
-# rms
- Restaurant Management System
+# Restaurant Management System (RMS)
+
+- Source file being added soon!
