@@ -19,4 +19,6 @@
 
   - This will run the client-side (webpage)
 
-- Steps to Stop the server: - Ctrl + C on the terminal running the server - Close the webpage
+## Steps to Stop the server:
+
+- Ctrl + C on the terminal running the server - Close the webpage
